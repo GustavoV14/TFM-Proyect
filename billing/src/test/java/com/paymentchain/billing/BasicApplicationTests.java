@@ -11,7 +11,7 @@ public class BasicApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		String message = "Mensaje Por defento";
+		String message = "Mensaje Test DevOps";
 		Assert.assertNotNull(message);
 	}
 
